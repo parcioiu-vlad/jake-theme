@@ -11,6 +11,12 @@
       "selectionBackground": "#0b293f"
     },
     "EditorTabs.selectedBackground": "#383838",
-    "EditorTabs.inactiveMaskColor": "#000000"
+    "EditorTabs.inactiveMaskColor": "#000000",
+    "EditorTabs": {
+      "selectedForeground": "#ffffff",
+      "selectedBackground": "#000000",
+      "underlineColor": "#ffffff",
+      "inactiveMaskColor": "#0d0d0d33"
+    }
   }
 }
